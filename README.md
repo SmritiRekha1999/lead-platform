@@ -4,8 +4,8 @@ A small but complete lead-management application a sales team could actually use
 
 > **Built for Digital Heroes Training Task** — <https://digitalheroesco.com>
 >
-> **Live app:** _add your Vercel URL here_
-> **API base:** _add your Render URL here_
+> **Live app:** https://lead-platform-theta.vercel.app
+> **API base:** https://lead-platform-ok7z.onrender.com
 
 ---
 
